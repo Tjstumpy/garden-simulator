@@ -1,0 +1,67 @@
+.root{
+    -fx-font-family: "Tahoma";
+}
+
+.text-field{
+    -fx-font-size: 30px;
+}
+
+.combo-box{
+    -fx-font-size: 30px;
+    -fx-background-color: white;
+}
+
+.check-box{
+    -fx-font-size: 150%;
+}
+
+.slider{
+    -fx-background-color: transparent;
+}
+
+.scroll-pane{
+    -fx-background:transparent;
+}
+
+#navigation-button{
+    -fx-background-color: transparent;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+#quit-button{
+    -fx-background-color: transparent;
+    -fx-text-fill: red;
+}#quit-button:hover{
+    -fx-background-color: red;
+    -fx-text-fill: black;
+}#quit-button:pressed{
+    -fx-background-color: darkred;
+    -fx-text-fill: black;
+}
+
+#sidebar{
+    -fx-font-size: 150%;
+}
+
+#sidebar-button{
+    -fx-background-color: #FC766AFF;
+}#sidebar-button:hover{
+    -fx-background-color: rgb(255, 96, 81);
+}#sidebar-button:pressed{
+    -fx-background-color: rgb(255, 67, 50);
+}
+
+#options{
+    -fx-font-size: 30px;
+    -fx-padding: 20px;
+}
+
+#error{
+    -fx-text-fill: red;
+    -fx-font-size: 20px;
+}
+
+#garden-info{
+    -fx-font-size: 175%;
+}

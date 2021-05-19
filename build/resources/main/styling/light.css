@@ -1,0 +1,34 @@
+.root{
+    -fx-background: lightblue;
+}
+
+.button{
+    -fx-text-fill: black;
+}
+
+.label{
+    -fx-text-fill: black;
+}
+
+.check-box{
+    -fx-text-fill: black;
+}
+
+.scroll-pane{
+    -fx-background-color: rgb(230, 230, 230);
+}
+
+#navigation-button:hover{
+    -fx-background-color: rgb(233, 233, 233);
+
+}#navigation-button:pressed{
+    -fx-background-color: gray;
+}
+
+#sidebar{
+    -fx-background-color: rgb(230, 230, 230);
+}
+
+#garden-info{
+    -fx-background-color: rgb(230, 230, 230);
+}

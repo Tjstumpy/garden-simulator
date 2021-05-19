@@ -1,2 +1,4 @@
-# garden-simulator
-JavaFX garden simulator group project in CISC275 - Intro to Software Engineering
+# Untitled Garden Sim 2022
+## Developed by The Collective
+
+A simple garden simulator/builder that allows the creation of gardens that are conducive to native species of butterflies and other insects.

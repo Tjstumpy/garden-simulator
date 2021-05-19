@@ -1,0 +1,5 @@
+com.collective.app
+com.collective.app.consts
+com.collective.app.dtos
+com.collective.app.utils
+com.collective.tests

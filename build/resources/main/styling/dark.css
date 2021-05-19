@@ -1,0 +1,39 @@
+.root{
+    -fx-background: #212121;
+}
+
+.button{
+    -fx-text-fill: #a5a5a5;
+}
+
+.label{
+    -fx-text-fill: #a5a5a5;
+}
+
+.check-box{
+    -fx-text-fill: #a5a5a5;
+}
+
+.scroll-pane{
+    -fx-background-color: rgb(63, 63, 63);
+}
+
+#navigation-button:hover{
+    -fx-text-fill: #151515;
+    -fx-background-color: #4f4f4f;
+
+}#navigation-button:pressed{
+    -fx-background-color: gray;
+}
+
+#sidebar{
+    -fx-background-color: rgb(63, 63, 63);
+}
+
+#garden-info{
+    -fx-background-color: rgb(63, 63, 63);
+}
+
+#sidebar-button{
+    -fx-text-fill: black;
+}

@@ -1,0 +1,33 @@
+Antheraea polyphemus,Polyphemus Moth,Betula,Quercus,Alnus,Ulmus,Fagus
+Cucullia asteroides,Goldenrod Hooded Owlet,Solidago
+Cydia latiferreana,Filbertworm Moth,Castanea,Fagus,Quercus
+Palthis angulalis,Dark-spotted Palthis,Fraxinus,Alnus
+Pandemis limitata,Three-lined Leafroller,Alnus,Betula,Castanea,Quercus,Ulmus
+Vanessa virginiensis,American Lady Butterfly,Gamochaeta,Anaphalis,Antennaria
+Speyeria aphrodite,Aphrodite Fritillary Butterfly,Vernonia,Cirsium,Apocynum,Hieracium,Liatris
+Euphydryas phaeton,Baltimore Checkerspot,Chelone,Aureolaria,Pedicularis,Fraxinus
+Satyrium calanus,Banded Hairstreak,Quercus,Apocynum
+Papilio polyxenes,Black Swallowtail Butterfly,Cicuta
+Erynnis lucilius,Columbine Duskywing,Aquilegia
+Junonia coenia,Common Buckeye,Comandra
+Nymphalis vaualbum,Compton Tortoiseshell,Alnus,Betula
+Satyrium titus,Coral Hairstreak,Apocynum,Cirsium,Geranium,Pycnanthemum,Solidago
+Erynnis icelus,Dreamy Duskywing,Betula
+Polygonia comma,Eastern Comma,Laportea,Boehmeria,Ulmus
+Papilio glaucus,Eastern Tiger Swallowtail,Fraxinus,Sassafras
+Speyeria cybele,Great Spangled Fritillary,Cirsium
+Erynnis horatius,Horace's Duskywing,Quercus,Solidago,Apocynum
+Erynnis juvenalis,Juvenal's Duskywing,Quercus,Fagus,Antennaria,Erigeron,Pycnanthemum,Ranunculus
+Megisto cymela,Little Wood-satyr,Poa
+Nymphalis antiopa,Mourning Cloak Butterfly,Ulmus
+Vanessa cardui,Painted Lady Butterfly,Liatris,Vernonia,Cirsium
+Phyciodes tharos,Pearl Crescent Butterfly,Apocynum,Cirsium
+Polygonia interrogationis,Question Mark Butterfly,Ulmus,Boehmeria
+Vanessa atalanta,Red Admiral Butterfly,Boehmeria,Laportea
+Limenitis arthemis,Red-spotted Purple Admiral,Alnus,Betula
+Chlosyne nycteis,Silvery Checkerspot,Helianthus
+Papilio troilus,Spicebush Swallowtail,Lindera,Sassafras,Cirsium,Apocynum
+Euptoieta claudia,Variegated Fritillary,Linum,Cirsium
+Limenitis archippus,Viceroy,Solidago
+Parrhasius m-album,White M Hairstreak Butterfly,Quercus,Solidago
+Lascoria ambigualis,Ambiguous Moth,Ambrosia

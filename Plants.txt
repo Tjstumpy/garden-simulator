@@ -1,0 +1,300 @@
+Agastache foeniculum,Blue giant hyssop,Mint,h,3,Half Sun,Clay,Average
+Ageratina altissima,Richweed,Aster,h,5,Full Sun,Sand,Dry
+Ageratina aromatica,Lesser snakeroot,Aster,h,5,Full Sun,Sand,Dry
+Agrostis gigantea,Redtop,Grass,h,11,Half Sun,Clay,Average
+Agrostis perennans,Upland bentgrass,Grass,h,11,Half Sun,Clay,Average
+Alisma subcordatum,American water plantain,Water-plantain,h,1,Half Sun,Clay,Average
+Alnus maritima,Seaside alder,Birch,w,164,Half Sun,Clay,Average
+Alnus serrulata,Hazel alder,Birch,w,164,Full Sun,Sand,Dry
+Alopecurus aequalis,Shortawn foxtail,Grass,h,2,Full Sun,Clay,Average
+Alopecurus myosuroides,Slender meadow foxtail,Grass,h,2,Full Sun,Soil,Wet
+Ambrosia artemisiifolia,Roman-wormwood,Aster,h,51,Full Sun,Sand,Dry
+Ambrosia trifida,Great ragweed,Aster,h,51,Full Sun,Sand,Average
+Amphicarpaea bracteata,Hog-peanut,Pea,h,7,Full Sun,Sand,Dry
+Anaphalis margaritacea,Western pearly everlasting,Aster,h,4,Full Sun,Sand,Average
+Angelica atropurpurea,American angelica,Carrot,h,3,Full Sun,Sand,Dry
+Antennaria neglecta,Field pussytoes,Aster,h,1,Full Sun,Sand,Dry
+Antennaria parlinii,Parlin's pussytoes,Aster,h,1,Full Sun,Sand,Average
+Antennaria plantaginifolia,Plantain-leaf pussytoes,Aster,h,1,Full Sun,Sand,Dry
+Apios americana,Groundnut,Pea,h,4,Full Sun,Sand,Average
+Apocynum androsaemifolium,Spreading dogbane,Dogbane,h,14,Full Sun,Sand,Average
+Apocynum cannabinum,Indianhemp,Dogbane,h,14,Full Sun,Sand,Average
+Aquilegia canadensis,Red columbine,Buttercup,h,11,Full Sun,Sand,Average
+Asarum canadense,Canadian wildginger,Birthwort,h,1,Full Sun,Sand,Average
+Asimina triloba,Pawpaw,Custard-apple,w,12,Full Sun,Sand,Average
+Aureolaria flava,Smooth yelDry false foxglove,Broom-rape,h,6,Full Sun,Sand,Dry
+Aureolaria virginica,Downy yelDry false foxglove,Broom-rape,h,6,Full Sun,Sand,Dry
+Azolla caroliniana,Carolina mosquitofern,Custard-apple,h,1,Full Sun,Clay,Wet
+Betula nigra,River birch,Birch,w,285,Full Sun,Clay,Wet
+Betula populifolia,Gray birch,Birch,w,285,Full Sun,Clay,Wet
+Boehmeria cylindrica,Smallspike false nettle,Nettle,h,6,Full Sun,Clay,Wet
+Bromus latiglumis,Earlyleaf brome,Grass,h,10,Full Sun,Clay,Wet
+Bromus racemosus,Bald brome,Grass,h,10,Full Sun,Clay,Average
+Bromus secalinus,Rye brome,Grass,h,10,Full Sun,Sand,Average
+Bromus squarrosus,Corn brome,Grass,h,10,Full Sun,Sand,Dry
+Bromus tectorum,Cheatgrass,Grass,h,10,Half Sun,Sand,Wet
+Cakile edentula,American searocket,Mustard,h,2,Half Sun,Sand,Wet
+Castanea dentata,American chestnut,Beech,w,109,Full Sun,Sand,Dry
+Castilleja coccinea,Scarlet indian paintbrush,Broom-rape,h,3,Half Sun,Sand,Wet
+Celastrus orbiculatus,Oriental bittersweet,Bittersweet,w,6,Full Sun,Sand,Dry
+Celastrus scandens,American bittersweet,Bittersweet,w,6,Half Sun,Sand,Wet
+Cenchrus longispinus,Mat sandbur,Grass,h,3,Half Sun,Sand,Wet
+Cenchrus tribuloides,Sanddune sandbur,Grass,h,3,Half Sun,Sand,Wet
+Centrosema virginianum,Spurred butterfly pea,Pea,h,4,Half Sun,Sand,Wet
+Chamaedaphne calyculata,Leatherleaf,Heath,w,10,Half Sun,Sand,Wet
+Chelone glabra,White turtlehead,Plantain,h,4,Half Sun,Sand,Wet
+Chionanthus virginicus,American fringetree,Olive,w,11,Full Sun,Sand,Dry
+Cicuta maculata,Spotted water hemlock,Carrot,h,6,Half Sun,Sand,Wet
+Cirsium altissimum,Tall thistle,Aster,h,26,Full Sun,Clay,Dry
+Cirsium ciliatum,Field thistle,Aster,h,26,Full Sun,Sand,Wet
+Cirsium horridulum,YelDry thistle,Aster,h,26,Full Sun,Clay,Dry
+Cirsium muticum,Dunce-nettle,Aster,h,26,Full Sun,Sand,Dry
+Cirsium pumilum,Pasture thistle,Aster,h,26,Full Sun,Clay,Dry
+Cirsium vulgare,Bull thistle,Aster,h,26,Full Sun,Sand,Wet
+Clitoria mariana,Butterfly-pea,Pea,h,3,Full Sun,Sand,Dry
+Comandra umbellata,Bastard toadflax,Sandalwood,h,4,Full Sun,Sand,Wet
+Cuscuta approximata,Alfalfa dodder,Morning-glory,h,1,Half Sun,Sand,Average
+Cuscuta cephalanthi,Buttonbush dodder,Morning-glory,h,1,Half Sun,Sand,Average
+Cuscuta compacta,Compact dodder,Morning-glory,h,1,Half Sun,Sand,Average
+Cuscuta epilinum,Flax dodder,Morning-glory,h,1,Half Sun,Soil,Average
+Cuscuta epithymum,Clover dodder,Morning-glory,h,1,Half Sun,Sand,Average
+Cuscuta pentagona,Fiveangled dodder,Morning-glory,h,1,Half Sun,Soil,Average
+Danthonia compressa,Flattened oatgrass,Grass,h,2,Half Sun,Soil,Average
+Dennstaedtia punctilobula,Eastern hayscented fern,Bracken Fern,h,3,Half Sun,Soil,Average
+Diospyros virginiana,Common persimmon,Ebony,w,47,Half Sun,Soil,Average
+Dirca palustris,Eastern leatherwood,Mezereum,w,1,Half Sun,Soil,Average
+Distichlis spicata,Saltgrass,Grass,h,4,Half Sun,Soil,Average
+Doellingeria infirma,Cornel-leaf whitetop,Aster,h,11,Half Sun,Soil,Average
+Doellingeria umbellata,Parasol whitetop,Aster,h,11,Half Sun,Soil,Average
+Drosera binata,Spoonleaf sundew,Sundew,h,1,Full Sun,Clay,Dry
+Drosera capillaris,Pink sundew,Sundew,h,1,Half Sun,Soil,Average
+Drosera filiformis,Threadleaf sundew,Sundew,h,1,Half Sun,Soil,Average
+Drosera rotundifolia,Roundleaf sundew,Sundew,h,1,Full Sun,Clay,Dry
+Eleocharis acicularis,Needle spikerush,Sedge,h,3,Half Sun,Clay,Dry
+Eleocharis obtusa,Blunt spikerush,Sedge,h,3,Half Sun,Clay,Dry
+Eleocharis erythropoda,Bald spikerush,Sedge,h,3,Half Sun,Clay,Dry
+Eleocharis flavescens,YelDry spikerush,Sedge,h,3,Half Sun,Clay,Dry
+Eleocharis palustris,Common spikerush,Sedge,h,3,Full Sun,Clay,Average
+Eleocharis uniglumis,Onescale spikerush,Sedge,h,3,Full Sun,Clay,Average
+Elodea canadensis,Canadian waterweed,Tape-grass,h,1,Half Sun,Clay,Wet
+Elodea densa,Brazilian elodea,Tape-grass,h,1,Half Sun,Clay,Wet
+Elodea nuttallii,Western waterweed,Tape-grass,h,1,Half Sun,Clay,Wet
+Epilobium coloratum,Purpleleaf wilDryherb,Evening Primrose,h,18,Half Sun,Clay,Wet
+Eragrostis cilianensis,Stinkgrass,Grass,h,5,Half Sun,Sand,Average
+Eragrostis curvula,Weeping lovegrass,Grass,h,5,Half Sun,Sand,Average
+Eragrostis mexicana,Mexican lovegrass,Grass,h,5,Half Sun,Sand,Average
+Eragrostis minor,Little lovegrass,Grass,h,5,Full Sun,Sand,Average
+Eragrostis pectinacea,Tufted lovegrass,Grass,h,5,Full Sun,Clay,Wet
+Eragrostis pilosa,Indian lovegrass,Grass,h,5,Full Sun,Sand,Wet
+Erigeron acris,Bitter fleabane,Aster,h,25,Full Sun,Soil,Average
+Erigeron annuus,Eastern daisy fleabane,Aster,h,25,Full Sun,Clay,Wet
+Erigeron uniflorus,Oneflower fleabane,Aster,h,25,Full Sun,Soil,Dry
+Eurybia macrophylla,Bigleaf aster,Aster,h,1,Full Sun,Clay,Wet
+Eurybia schreberi,Schreber's aster,Aster,h,1,Full Sun,Clay,Wet
+Fagus grandifolia,American beech,Beech,w,125,Full Sun,Clay,Wet
+Festuca ovina,Ovina,Grass,h,4,Full Sun,Soil,Average
+Festuca rubra,Red fescue,Grass,h,4,Full Sun,Sand,Dry
+Fraxinus americana,White ash,Olive,w,124,Full Sun,Sand,Dry
+Fraxinus nigra,Black ash,Olive,w,124,Full Sun,Sand,Dry
+Fraxinus pennsylvanica,Green ash,Olive,w,124,Half Sun,Clay,Average
+Fraxinus profunda,Pumpkin ash,Olive,w,124,Half Sun,Clay,Average
+Galium aparine,Stickywilly,Madder,h,13,Half Sun,Soil,Wet
+Galium circaezans,Licorice bedstraw,Madder,h,13,Half Sun,Clay,Dry
+Galium obtusum,Bluntleaf bedstraw,Madder,h,13,Half Sun,Clay,Dry
+Galium pilosum,Hairy bedstraw,Madder,h,13,Half Sun,Clay,Dry
+Gamochaeta purpurea,Spoonleaf purple everlasting,Aster,h,1,Half Sun,Clay,Dry
+Gentiana andrewsii,Closed bottle gentian,Gentian,h,1,Half Sun,Clay,Dry
+Gentiana autumnalis,Pine barren gentian,Gentian,h,1,Half Sun,Clay,Dry
+Gentiana saponaria,Harvestbells,Gentian,h,1,Half Sun,Clay,Dry
+Gentiana villosa,Striped gentian,Gentian,h,1,Half Sun,Clay,Dry
+Gentianopsis crinita,Greater fringed gentian,Gentian,h,1,Half Sun,Clay,Dry
+Geranium carolinianum,Carolina geranium,Geranium,h,24,Half Sun,Clay,Dry
+Geranium columbinum,Longstalk cranesbill,Geranium,h,24,Half Sun,Clay,Dry
+Geranium dissectum,Cutleaf geranium,Geranium,h,24,Half Sun,Soil,Average
+Geranium maculatum,Spotted geranium,Geranium,h,24,Half Sun,Soil,Average
+Geranium pusillum,Small geranium,Geranium,h,24,Half Sun,Soil,Wet
+Geranium pyrenaicum,Hedgerow geranium,Geranium,h,24,Half Sun,Soil,Wet
+Geranium robertianum,Robert geranium,Geranium,h,24,Shade,Soil,Wet
+Hamamelis virginiana,American witchhazel,Witch-hazel,w,68,Shade,Soil,Wet
+Helenium autumnale,Common sneezeweed,Aster,h,6,Shade,Soil,Wet
+Helianthus annuus,Common sunflower,Aster,h,57,Full Sun,Sand,Wet
+Helianthus decapetalus,Thinleaf sunflower,Aster,h,57,Full Sun,Sand,Wet
+Helianthus hirsutus,Hairy sunflower,Aster,h,57,Full Sun,Sand,Wet
+Helianthus laetiflorus,Cheerful sunflower,Aster,h,57,Half Sun,Clay,Average
+Helianthus maximiliani,Maximilian sunflower,Aster,h,57,Full Sun,Sand,Wet
+Helianthus microcephalus,Small woodland sunflower,Aster,h,57,Full Sun,Sand,Wet
+Helianthus tuberosus,Jerusalem artichoke,Aster,h,57,Full Sun,Clay,Wet
+Hieracium lachenalii,Common hawkweed,Aster,h,2,Half Sun,Soil,Dry
+Hieracium scabrum,Rough hawkweed,Aster,h,2,Half Sun,Soil,Dry
+Hordeum jubatum,Foxtail barley,Grass,h,17,Full Sun,Sand,Average
+Hordeum murinum,Mouse barley,Grass,h,17,Full Sun,Sand,Wet
+Hordeum pusillum,Little barley,Grass,h,17,Full Sun,Sand,Wet
+Houstonia purpurea,Venus' pride,Madder,h,1,Full Sun,Sand,Wet
+Hudsonia tomentosa,Woolly beachheather,Rock-rose,h,2,Full Sun,Sand,Wet
+Hydrangea arborescens,Wild hydrangea,Hydrangea,w,9,Full Sun,Sand,Wet
+Hydrangea barbara,Climbing-hydrangea,Hydrangea,w,9,Half Sun,Sand,Average
+Hydrocotyle americana,American marshpennywort,Ginseng,h,4,Full Sun,Sand,Wet
+Ionactis linariifolia,Savory-leaf aster,Aster,h,1,Half Sun,Clay,Average
+Juncus balticus subsp. mexicanus,Baltic rush,Rush,h,8,Full Sun,Clay,Average
+Juncus brachycarpus,Whiteroot rush,Rush,h,8,Full Sun,Sand,Wet
+Juncus dudleyi,Dudley's rush,Rush,h,8,Shade,Soil,Average
+Juncus effusus,Common rush,Rush,h,8,Half Sun,Clay,Average
+Juncus gerardi,Saltmeadow rush,Rush,h,8,Full Sun,Soil,Average
+Juncus marginatus,Grassleaf rush,Rush,h,8,Half Sun,Clay,Average
+Juncus scirpoides,Needlepod rush,Rush,h,8,Half Sun,Clay,Average
+Juncus tenuis,Poverty rush,Rush,h,8,Shade,Soil,Average
+Lactuca biennis,Tall blue lettuce,Aster,h,47,Shade,Soil,Average
+Lactuca floridana,Woodland lettuce,Aster,h,47,Shade,Soil,Average
+Lactuca saligna,WilDryleaf lettuce,Aster,h,47,Full Sun,Sand,Average
+Lactuca sativa,Garden lettuce,Aster,h,47,Full Sun,Sand,Average
+Lactuca serriola,Prickly lettuce,Aster,h,47,Half Sun,Sand,Average
+Laportea canadensis,Canadian woodnettle,Nettle,h,8,Half Sun,Sand,Average
+Lechea minor,Thymeleaf pinweed,Rock-rose,h,1,Half Sun,Sand,Average
+Lechea mucronata,Hairy pinweed,Rock-rose,h,1,Half Sun,Sand,Average
+Lechea racemulosa,Illinois pinweed,Rock-rose,h,1,Half Sun,Sand,Average
+Liatris spicata,Dense blazing star,Aster,h,4,Half Sun,Sand,Average
+Liatris squarrosa,Scaly blazing star,Aster,h,4,Half Sun,Sand,Average
+Lindera benzoin,Northern spicebush,Laurel,w,12,Half Sun,Sand,Average
+Linum striatum,Ridged yelDry flax,Flax,h,14,Half Sun,Sand,Average
+Linum usitatissimum,Common flax,Flax,h,14,Half Sun,Soil,Average
+Linum virginianum,Woodland flax,Flax,h,14,Half Sun,Soil,Average
+Matricaria discoidea,Disc mayweed,Aster,h,1,Full Sun,Sand,Wet
+Menispermum canadense,Common moonseed,Moonseed,w,1,Full Sun,Sand,Wet
+Menyanthes trifoliata,Buckbean,Buckbean,h,2,Half Sun,Clay,Dry
+Mikania scandens,Climbing hempvine,Aster,h,2,Half Sun,Clay,Dry
+Mimulus alatus,Sharpwing monkeyflower,Aster,h,5,Half Sun,Clay,Dry
+Mimulus ringens,Allegheny monkeyflower,Aster,h,5,Half Sun,Clay,Dry
+Morus alba,White mulberry,Mulberry,w,6,Half Sun,Sand,Average
+Muhlenbergia capillaris,Hairawn muhly,Grass,h,2,Half Sun,Sand,Average
+Muhlenbergia frondosa,Wirestem muhly,Grass,h,2,Half Sun,Sand,Average
+Muhlenbergia mexicana,Mexican muhly,Grass,h,2,Half Sun,Sand,Average
+Nabalus albus,White rattlesnakeroot,Aster,h,3,Full Sun,Clay,Wet
+Nelumbo lutea,American lotus,Lotus-lily,h,5,Half Sun,Sand,Average
+Nymphaea odorata,American white waterlily,Water-lily,h,9,Half Sun,Sand,Average
+Orontium aquaticum,Goldenclub,Arum,h,4,Half Sun,Sand,Average
+Oxalis corniculata,Creeping woodsorrel,Wood-Sorrel,h,4,Half Sun,Sand,Average
+Oxalis dillenii,Slender yelDry woodsorrel,Wood-Sorrel,h,4,Half Sun,Soil,Average
+Oxalis violacea,Violet woodsorrel,Wood-Sorrel,h,4,Half Sun,Soil,Average
+Panax quinquefolius,American ginseng,Ginseng,h,1,Half Sun,Soil,Average
+Panax trifolius,Dwarf ginseng,Ginseng,h,1,Half Sun,Soil,Average
+Pedicularis canadensis,Canadian lousewort,Broom-rape,h,4,Half Sun,Soil,Average
+Pedicularis lanceolata,Swamp lousewort,Broom-rape,h,4,Half Sun,Soil,Average
+Phalaris arundinacea,Reed canarygrass,Grass,h,1,Full Sun,Clay,Wet
+Phalaris canariensis,Annual canarygrass,Grass,h,1,Full Sun,Sand,Average
+Phlox pilosa,Downy phlox,Phlox,h,6,Full Sun,Sand,Average
+Phragmites australis,Common reed,Grass,h,3,Half Sun,Clay,Wet
+Phytolacca americana,American pokeweed,Pokeweed,h,9,Half Sun,Soil,Wet
+Pinus mugo,Mugo pine,Pine,w,146,Full Sun,Soil,Dry
+Pinus serotina,Pond pine,Pine,w,146,Full Sun,Soil,Dry
+Pinus strobus,Eastern white pine,Pine,w,146,Full Sun,Soil,Dry
+Pinus virginiana,Virginia pine,Pine,w,146,Full Sun,Soil,Dry
+Platanus occidentalis,American sycamore,Plane-tree,w,42,Full Sun,Clay,Average
+Poa autumnalis,Autumn bluegrass,Grass,h,35,Full Sun,Clay,Average
+Poa sinaica,Bulbous bluegrass,Grass,h,35,Full Sun,Sand,Dry
+Poa trivialis,Rough bluegrass,Grass,h,35,Shade,Clay,Wet
+Podophyllum peltatum,Mayapple,Barberry,h,6,Shade,Clay,Wet
+Polygala cymosa,Tall pinebarren milkwort,Milkwort,h,1,Shade,Clay,Wet
+Pontederia hastata,Arrowleaf monochoria,Water-Hyacinth,h,5,Full Sun,Sand,Dry
+Potamogeton epihydrus,Ribbonleaf pondweed,Pondweed,h,7,Shade,Clay,Wet
+Potamogeton pusillus,Small pondweed,Pondweed,h,7,Full Sun,Clay,Wet
+Pycnanthemum muticum,Clustered mountainmint,Mint,h,4,Full Sun,Clay,Wet
+Pycnanthemum tenuifolium,Narrowleaf mountainmint,Mint,h,4,Full Sun,Clay,Wet
+Pyrola americana,American wintergreen,Heath,h,2,Full Sun,Clay,Wet
+Pyrola chlorantha,Greenflowered wintergreen,Heath,h,2,Shade,Soil,Dry
+Pyrola elliptica,Waxflower shinleaf,Heath,h,2,Shade,Soil,Dry
+Quercus alba,White oak,Beech,w,463,Shade,Soil,Dry
+Quercus bicolor,Swamp white oak,Beech,w,463,Full Sun,Soil,Average
+Quercus coccinea,Scarlet oak,Beech,w,463,Half Sun,Soil,Average
+Quercus falcata,Southern red oak,Beech,w,463,Half Sun,Soil,Average
+Quercus helferiana,Evergreen oak,Beech,w,463,Half Sun,Sand,Average
+Quercus imbricaria,Shingle oak,Beech,w,463,Half Sun,Soil,Average
+Quercus marilandica,Blackjack oak,Beech,w,463,Half Sun,Soil,Average
+Quercus michauxii,Swamp chestnut oak,Beech,w,463,Half Sun,Soil,Average
+Quercus nigra,Water oak,Beech,w,463,Half Sun,Soil,Average
+Quercus phellos,WilDry oak,Beech,w,463,Half Sun,Soil,Average
+Quercus rubra,Northern red oak,Beech,w,463,Full Sun,Soil,Average
+Quercus stellata,Post oak,Beech,w,463,Full Sun,Soil,Average
+Ranunculus abortivus,Littleleaf buttercup,Buttercup,h,6,Full Sun,Soil,Average
+Ranunculus acris,Tall buttercup,Buttercup,h,6,Half Sun,Soil,Average
+Ranunculus bulbosus,St. anthony's turnip,Buttercup,h,6,Full Sun,Soil,Dry
+Ranunculus flabellaris,YelDry water buttercup,Buttercup,h,6,Full Sun,Soil,Dry
+Ranunculus hispidus,Bristly buttercup,Buttercup,h,6,Full Sun,Soil,Dry
+Ranunculus pensylvanicus,Pennsylvania buttercup,Buttercup,h,6,Full Sun,Soil,Dry
+Ranunculus recurvatus,Blisterwort,Buttercup,h,6,Full Sun,Soil,Dry
+Ranunculus repens,Creeping buttercup,Buttercup,h,6,Shade,Clay,Wet
+Ranunculus sceleratus,Cursed buttercup,Buttercup,h,6,Full Sun,Clay,Wet
+Ranunculus trichophyllus,Threadleaf crowfoot,Buttercup,h,6,Half Sun,Clay,Average
+Rhexia mariana,Maryland meadowbeauty,Melastome,h,4,Half Sun,Clay,Average
+Rhexia virginica,Handsome harry,Melastome,h,4,Half Sun,Clay,Average
+Rhynchospora alba,White beaksedge,Sedge,h,1,Full Sun,Clay,Dry
+Rhynchospora fusca,Brown beaksedge,Sedge,h,1,Full Sun,Clay,Dry
+Rorippa palustris,Bog yelDrycress,Mustard,h,3,Full Sun,Clay,Wet
+Rorippa sylvestris,Creeping yelDrycress,Mustard,h,3,Full Sun,Clay,Average
+Salvia pratensis,Introduced sage,Mint,h,6,Full Sun,Sand,Average
+Salvia verbenaca,Wild clary,Mint,h,6,Full Sun,Sand,Average
+Salvia verticillata,Lilac sage,Mint,h,6,Full Sun,Sand,Average
+Sanguinaria canadensis,Bloodroot,Poppy,h,1,Full Sun,Sand,Average
+Sassafras albidum,Sassafras,Laurel,w,35,Full Sun,Sand,Average
+Schizachyrium scoparium,Little bluestem,Grass,h,6,Full Sun,Sand,Average
+Schoenoplectus pungens,Common threesquare,Sedge,h,2,Full Sun,Clay,Average
+Schoenoplectus tabernaemontani,Softstem bulrush,Sedge,h,2,Full Sun,Clay,Average
+Scutellaria galericulata,Marsh skullcap,Mint,h,2,Half Sun,Clay,Average
+Scutellaria lateriflora,Blue skullcap,Mint,h,2,Half Sun,Clay,Average
+Scutellaria nervosa,Veiny skullcap,Mint,h,2,Half Sun,Clay,Average
+Scutellaria parvula,Small skullcap,Mint,h,2,Half Sun,Clay,Average
+Scutellaria saxatilis,Smooth rock skullcap,Mint,h,2,Half Sun,Clay,Average
+Solidago bicolor,White goldenrod,Aster,h,106,Half Sun,Clay,Average
+Solidago caesia,Wreath goldenrod,Aster,h,106,Half Sun,Clay,Average
+Solidago canadensis,Canada goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago chilensis,Chilean solidago,Aster,h,106,Half Sun,Clay,Average
+Solidago fistulosa,Pine barren goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago flexicaulis,Zigzag goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago gigantea,Giant goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago hispida,Hairy goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago latissimifolia,Elliott's goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago nemoralis,Gray goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago rigida,Stiff goldenrod,Aster,h,106,Half Sun,Sand,Average
+Solidago rugosa,Wrinkleleaf goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago sempervirens,Seaside goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago speciosa,Showy goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago uliginosa,Bog goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago ulmifolia,Elmleaf goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Solidago wrightii,Wright's goldenrod,Aster,h,106,Full Sun,Clay,Wet
+Spiranthes lacera,Northern slender lady's tresses,Aster,h,1,Full Sun,Clay,Wet
+Spiranthes lucida,Shining lady's tresses,Aster,h,1,Full Sun,Clay,Dry
+Spiranthes tuberosa,Little lady's tresses,Aster,h,1,Full Sun,Clay,Dry
+Symplocarpus foetidus,Skunk cabbage,Arum,h,1,Full Sun,Clay,Dry
+Tradescantia ohiensis,Bluejacket,Spiderwort,h,4,Full Sun,Clay,Dry
+Tradescantia virginiana,Virginia spiderwort,Spiderwort,h,4,Full Sun,Clay,Dry
+Tripsacum dactyloides,Eastern gamagrass,Grass,h,2,Full Sun,Clay,Dry
+Typha angustifolia,Narrowleaf cattail,Cat-tail,h,16,Full Sun,Clay,Average
+Typha domingensis,Southern cattail,Cat-tail,h,16,Full Sun,Clay,Average
+Typha latifolia,Broadleaf cattail,Cat-tail,h,16,Full Sun,Clay,Wet
+Ulmus americana,American elm,Elm,w,174,Full Sun,Clay,Wet
+Ulmus rubra,Slippery elm,Elm,w,174,Full Sun,Clay,Wet
+Utricularia geminiscapa,Hiddenfruit bladderwort,Bladderwort,h,1,Full Sun,Clay,Wet
+Utricularia gibba,Humped bladderwort,Bladderwort,h,1,Full Sun,Clay,Wet
+Utricularia juncea,Southern bladderwort,Bladderwort,h,1,Full Sun,Clay,Wet
+Utricularia minor,Lesser bladderwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Utricularia purpurea,Eastern purple bladderwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Utricularia radiata,Little floating bladderwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Utricularia striata,Striped bladderwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Utricularia subulata,Zigzag bladderwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Uvularia perfoliata,Perfoliate bellwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Uvularia sessilifolia,Sessileleaf bellwort,Bladderwort,h,1,Full Sun,Clay,Dry
+Vernonia glauca,Broadleaf ironweed,Aster,h,22,Full Sun,Clay,Dry
+Vernonia noveboracensis,New york ironweed,Aster,h,22,Full Sun,Clay,Dry
+Veronica americana,American speedwell,Plantain,h,7,Full Sun,Clay,Dry
+Veronica anagallis-aquatica,Water speedwell,Plantain,h,7,Full Sun,Clay,Average
+Veronica arvensis,Corn speedwell,Plantain,h,7,Half Sun,Soil,Average
+Veronica filiformis,Threadstalk speedwell,Plantain,h,7,Full Sun,Soil,Average
+Veronica hederifolia,Ivyleaf speedwell,Plantain,h,7,Half Sun,Soil,Wet
+Veronica officinalis,Common gypsyweed,Plantain,h,7,Shade,Soil,Dry
+Veronica peregrina,Neckweed,Plantain,h,7,Full Sun,Clay,Wet
+Veronica persica,Birdeye speedwell,Plantain,h,7,Half Sun,Soil,Wet
+Veronicastrum virginicum,Culver's root,Plantain,h,1,Half Sun,Soil,Wet
+Vitis aestivalis,Summer grape,Grape,w,64,Half Sun,Soil,Wet
+Vitis labrusca,Fox grape,Grape,w,64,Half Sun,Clay,Average
+Vitis rotundifolia,Muscadine,Grape,w,64,Half Sun,Clay,Average
+Vitis vulpina,Frost grape,Grape,w,64,Half Sun,Clay,Average
+Zizania aquatica,Annual wildrice,Grass,h,4,Half Sun,Clay,Average
